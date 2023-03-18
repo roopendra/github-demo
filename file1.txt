@@ -10,3 +10,5 @@ Changes done in master branch
 line added by devA
 
 Some random changes
+
+new changes for diff

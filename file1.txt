@@ -3,4 +3,7 @@ New changes
 
 Changes made for Task 1 in Feature1 branch
 
-New change 
+New change
+
+Changes done in master branch 
+

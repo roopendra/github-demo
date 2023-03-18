@@ -1,7 +1,7 @@
 Added new content
 Updated in feature branch
 
-Changes made for Task 1 in Feature1 branch
+Changes made for Task 1 in Feature1 branch = changes done by dev1
 
 New change
 

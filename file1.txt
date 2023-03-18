@@ -8,5 +8,3 @@ New change
 Changes done in master branch 
 
 line added by devA
-
-changes for git revert

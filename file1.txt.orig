@@ -6,7 +6,8 @@ Changes made for Task 1 in Feature1 branch = changes done by dev1
 New change
 
 Changes done in master branch 
-
+<<<<<<< HEAD
+Change done by DevB
+=======
 line added by devA
-
-Some random changes
+>>>>>>> 8f9b6dfabab1fbe0f43e59951829b44efe826b3f

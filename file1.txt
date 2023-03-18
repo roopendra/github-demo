@@ -8,3 +8,5 @@ New change
 Changes done in master branch 
 
 line added by devA
+
+Some random changes

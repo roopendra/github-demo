@@ -1,5 +1,5 @@
 Added new content
-New changes
+Updated in feature branch
 
 Changes made for Task 1 in Feature1 branch
 
